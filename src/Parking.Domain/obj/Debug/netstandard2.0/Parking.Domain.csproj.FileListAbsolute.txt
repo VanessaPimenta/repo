@@ -1,0 +1,12 @@
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Domain\bin\Debug\netstandard2.0\Parking.Domain.deps.json
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Domain\bin\Debug\netstandard2.0\Parking.Domain.dll
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Domain\bin\Debug\netstandard2.0\Parking.Domain.pdb
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Domain\obj\Debug\netstandard2.0\Parking.Domain.csprojAssemblyReference.cache
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Domain\obj\Debug\netstandard2.0\Parking.Domain.csproj.CoreCompileInputs.cache
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Domain\obj\Debug\netstandard2.0\Parking.Domain.AssemblyInfoInputs.cache
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Domain\obj\Debug\netstandard2.0\Parking.Domain.AssemblyInfo.cs
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Domain\obj\Debug\netstandard2.0\Parking.Domain.dll
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Domain\obj\Debug\netstandard2.0\Parking.Domain.pdb
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Domain\bin\Debug\netstandard2.0\Parking.Dto.dll
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Domain\bin\Debug\netstandard2.0\Parking.Dto.pdb
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Domain\obj\Debug\netstandard2.0\Parking.Domain.csproj.CopyComplete

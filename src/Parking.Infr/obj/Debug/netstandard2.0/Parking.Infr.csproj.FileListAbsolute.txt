@@ -1,0 +1,4 @@
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Infr\obj\Debug\netstandard2.0\Parking.Infr.csprojAssemblyReference.cache
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Infr\obj\Debug\netstandard2.0\Parking.Infr.csproj.CoreCompileInputs.cache
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Infr\obj\Debug\netstandard2.0\Parking.Infr.AssemblyInfoInputs.cache
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Infr\obj\Debug\netstandard2.0\Parking.Infr.AssemblyInfo.cs

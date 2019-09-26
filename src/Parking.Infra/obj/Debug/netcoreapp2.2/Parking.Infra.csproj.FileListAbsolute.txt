@@ -1,0 +1,13 @@
+C:\Repositorio\Treinamento.Net\Projeto\v2\slnParking\Parking.Infra\obj\Debug\netcoreapp2.2\Parking.Infra.csprojAssemblyReference.cache
+C:\Repositorio\Treinamento.Net\Projeto\v2\slnParking\Parking.Infra\obj\Debug\netcoreapp2.2\Parking.Infra.csproj.CoreCompileInputs.cache
+C:\Repositorio\Treinamento.Net\Projeto\v2\slnParking\Parking.Infra\obj\Debug\netcoreapp2.2\Parking.Infra.AssemblyInfoInputs.cache
+C:\Repositorio\Treinamento.Net\Projeto\v2\slnParking\Parking.Infra\obj\Debug\netcoreapp2.2\Parking.Infra.AssemblyInfo.cs
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Infra\obj\Debug\netcoreapp2.2\Parking.Infra.csprojAssemblyReference.cache
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Infra\obj\Debug\netcoreapp2.2\Parking.Infra.csproj.CoreCompileInputs.cache
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Infra\obj\Debug\netcoreapp2.2\Parking.Infra.AssemblyInfoInputs.cache
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Infra\obj\Debug\netcoreapp2.2\Parking.Infra.AssemblyInfo.cs
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Infra\bin\Debug\netcoreapp2.2\Parking.Infra.deps.json
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Infra\bin\Debug\netcoreapp2.2\Parking.Infra.dll
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Infra\bin\Debug\netcoreapp2.2\Parking.Infra.pdb
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Infra\obj\Debug\netcoreapp2.2\Parking.Infra.dll
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Infra\obj\Debug\netcoreapp2.2\Parking.Infra.pdb

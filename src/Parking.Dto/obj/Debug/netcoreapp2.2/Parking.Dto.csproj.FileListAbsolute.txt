@@ -1,0 +1,13 @@
+C:\Repositorio\Treinamento.Net\Projeto\v2\slnParking\Parking.Dto\obj\Debug\netcoreapp2.2\Parking.Dto.csprojAssemblyReference.cache
+C:\Repositorio\Treinamento.Net\Projeto\v2\slnParking\Parking.Dto\obj\Debug\netcoreapp2.2\Parking.Dto.csproj.CoreCompileInputs.cache
+C:\Repositorio\Treinamento.Net\Projeto\v2\slnParking\Parking.Dto\obj\Debug\netcoreapp2.2\Parking.Dto.AssemblyInfoInputs.cache
+C:\Repositorio\Treinamento.Net\Projeto\v2\slnParking\Parking.Dto\obj\Debug\netcoreapp2.2\Parking.Dto.AssemblyInfo.cs
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Dto\obj\Debug\netcoreapp2.2\Parking.Dto.csprojAssemblyReference.cache
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Dto\obj\Debug\netcoreapp2.2\Parking.Dto.csproj.CoreCompileInputs.cache
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Dto\obj\Debug\netcoreapp2.2\Parking.Dto.AssemblyInfoInputs.cache
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Dto\obj\Debug\netcoreapp2.2\Parking.Dto.AssemblyInfo.cs
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Dto\bin\Debug\netcoreapp2.2\Parking.Dto.deps.json
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Dto\bin\Debug\netcoreapp2.2\Parking.Dto.dll
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Dto\bin\Debug\netcoreapp2.2\Parking.Dto.pdb
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Dto\obj\Debug\netcoreapp2.2\Parking.Dto.dll
+C:\Vanessa\Treinamento.Net\Projeto\slnParking\Parking.Dto\obj\Debug\netcoreapp2.2\Parking.Dto.pdb
